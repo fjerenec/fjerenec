@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fjerenec
 - 👀 I’m interested in numerical simulations, fracture mechanics and numerical methods
-- 🌱 I’m currently learning how to use Peridynamics simulations
+- 🌱 I’m currently learning how to use Peridynamics
 - 💞️ I’m looking to collaborate on physical problems which would be interesting and fun to simulate via Peridynamic simulations
 - 📫 How to reach me: filip.jerenec@gmail.com
 
